@@ -1,0 +1,14 @@
+{
+  "main":"groovy:fr.xebia.sims.SimsFactoryVerticle",
+
+  // If your module is going to be registered in the Vert.x module registry you will also need the following
+  // mandatory fields
+  "description":"Sims Microservices Project: Factory Verticle",
+  "licenses": ["WTFPL"],
+  "author": "Aurélien Maury",
+
+  "keywords": ["microservice", "sims"],
+  "homepage": "url to your project page",
+
+  "auto-redeploy": true
+}
